@@ -56,8 +56,7 @@ I am a Senior Full-Stack Developer specializing in **Offline-First B2B SaaS** an
 ### 📊 GitHub Activity & System Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmanos1999-glitch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&v=1.1" alt="Asman's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmanos1999-glitch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1.1" alt="Top Languages Used" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmanos1999-glitch&theme=tokyonight&hide_border=true&background=0D1117" alt="Asman's GitHub Streak" />
 </p>
 
 <div align="center">
