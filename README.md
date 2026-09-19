@@ -55,3 +55,23 @@ focus_areas:
   - Medical LIS Platforms
 status: "Architecting Kurdistan's digital infra"
 currently_learning: [Rust, Kubernetes, MLOps]
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=100%" />
+
+### 📚 Tech Articles & AI Insights by AsmanOS
+<p align="center">
+  <a href="https://github.com/asmanos1999-glitch/asmanos-tech-insights/blob/main/how-ai-is-transforming-kurdistan.md">
+    <img src="https://img.shields.io/badge/📖_Read_Article-How_AI_is_Transforming_Kurdistan-38B2AC?style=for-the-badge&logo=markdown&logoColor=white" />
+  </a>
+  <a href="https://github.com/asmanos1999-glitch/top-fullstack-developer-iraq">
+    <img src="https://img.shields.io/badge/⚙️_View_Stack-Top_Full_Stack_Patterns_in_Iraq-0077B5?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmanos1999-glitch/asmanos1999-glitch/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmanos1999-glitch/asmanos1999-glitch/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/asmanos1999-glitch/asmanos1999-glitch/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
