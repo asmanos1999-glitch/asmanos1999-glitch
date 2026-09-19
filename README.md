@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.co/api?type=waving&color=0:0D1117,100:38B2AC&height=220&section=header&text=ASMAN%20HEWA&fontSize=70&fontColor=FFFFFF&fontAlignY=35&desc=Founder%20%26%20Lead%20Architect%20%40%20AsmanOS&descAlignY=55&descSize=22&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:38B2AC&height=220&section=header&text=ASMAN%20HEWA&fontSize=70&fontColor=FFFFFF&fontAlignY=35&desc=Founder%20%26%20Lead%20Architect%20%40%20AsmanOS&descAlignY=55&descSize=22&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+AI+Architect;Building+Offline-First+B2B+SaaS+for+Iraq;Applied+AI+%7C+Medical+LIS+%7C+Smart+Automation" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/Full--Stack%20Developer%20%7C%20AI%20Architect-38B2AC?style=flat-square&labelColor=0D1117" /><br/><br/>
+<sub><b>Applied AI &nbsp;|&nbsp; Medical LIS &nbsp;|&nbsp; Smart Automation</b></sub>
 
 <br/><br/>
 
@@ -144,7 +145,6 @@ Advanced Gemini API orchestration and prompt engineering to generate marketing s
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmanos1999-glitch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asmanos1999-glitch&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38B2AC&line=38B2AC&point=ffffff" height="165"/>
 
 </div>
 
