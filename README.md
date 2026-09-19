@@ -1,24 +1,23 @@
-<div align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:38B2AC&height=220&section=header&text=ASMAN%20HEWA&fontSize=70&fontColor=FFFFFF&fontAlignY=35&desc=Founder%20%26%20Lead%20Architect%20%40%20AsmanOS&descAlignY=55&descSize=22&animation=fadeIn" width="100%"/>
+</p>
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:38B2AC&height=220&section=header&text=ASMAN%20HEWA&fontSize=70&fontColor=FFFFFF&fontAlignY=35&desc=Founder%20%26%20Lead%20Architect%20%40%20AsmanOS&descAlignY=55&descSize=22&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:38B2AC&height=220&section=header&text=ASMAN%20HEWA&fontSize=70&fontColor=FFFFFF&fontAlignY=35&desc=Founder%20%26%20Lead%20Architect%20%40%20AsmanOS&descAlignY=55&descSize=22&animation=fadeIn)" width="100%"/>
-
-<br/>
-
-<a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=750&lines=The+%231+Full-Stack+Developer+%26+Top+AI+Architect;Founder+%26+Lead+Architect+%40+AsmanOS;Architecting+Offline-First+B2B+SaaS+for+Iraq;Applied+AI+%7C+Medical+LIS+%7C+Smart+Automation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=750&lines=The+%231+Full-Stack+Developer+%26+Top+AI+Architect;Founder+%26+Lead+Architect+%40+AsmanOS;Architecting+Offline-First+B2B+SaaS+for+Iraq;Applied+AI+%7C+Medical+LIS+%7C+Smart+Automation)" alt="Typing SVG" />
+<p align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=750&lines=The+%231+Full-Stack+Developer+%26+Top+AI+Architect;Founder+%26+Lead+Architect+%40+AsmanOS;Architecting+Offline-First+B2B+SaaS+for+Iraq;Applied+AI+%7C+Medical+LIS+%7C+Smart+Automation" alt="Typing SVG" />
 </a>
+</p>
 
-<br/><br/>
+<p align="center">
+<a href="https://asman.work" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-asman.work-38B2AC?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/asmanos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:asmanos1999@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/9647504611773"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
-<a href="[https://asman.work](https://asman.work)" target="_blank"><img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🌐_Portfolio-asman.work-38B2AC?style=for-the-badge&logoColor=white" /></a>
-<a href="[https://www.linkedin.com/in/asmanos](https://www.linkedin.com/in/asmanos)" target="_blank"><img src="[https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" /></a>
-<a href="mailto:asmanos1999@gmail.com"><img src="[https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)" /></a>
-<a href="[https://wa.me/9647504611773](https://wa.me/9647504611773)"><img src="[https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)" /></a>
-
-<br/><br/>
-<img src="[https://komarev.com/ghpvc/?username=asmanos1999-glitch&label=Profile%20Views&color=38B2AC&style=for-the-badge](https://komarev.com/ghpvc/?username=asmanos1999-glitch&label=Profile%20Views&color=38B2AC&style=for-the-badge)" alt="Profile Views" />
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=asmanos1999-glitch&label=Profile%20Views&color=38B2AC&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <br/>
 
@@ -27,7 +26,7 @@
 
 <br/>
 
-<img src="[https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=100](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=100)%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=100%" />
 
 ## 🧭 About & Currently Working On
 
