@@ -1,64 +1,160 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=header&text=Welcome%20to%20AsmanOS&fontSize=50&fontColor=38B2AC&fontAlignY=40" />
+
+<img src="https://capsule-render.vercel.co/api?type=waving&color=0:0D1117,100:38B2AC&height=220&section=header&text=ASMAN%20HEWA&fontSize=70&fontColor=FFFFFF&fontAlignY=35&desc=Founder%20%26%20Lead%20Architect%20%40%20AsmanOS&descAlignY=55&descSize=22&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+AI+Architect;Building+Offline-First+B2B+SaaS+for+Iraq;Applied+AI+%7C+Medical+LIS+%7C+Smart+Automation" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://asman.work" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-asman.work-38B2AC?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/asmanos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hello@asman.work"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 </div>
 
-<h1 align="center">Hi there, I'm Asman Hewa 👋</h1>
-<h3 align="center">Founder & Lead Architect at AsmanOS | Engineering Enterprise AI for Kurdistan</h3>
+<br/>
 
-<p align="center">
-  <a href="https://asman.work" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-asman.work-38B2AC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/asmanos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=100%" />
 
-I am a Senior Full-Stack Developer specializing in **Offline-First B2B SaaS** and **Applied Artificial Intelligence**. My mission at AsmanOS is to modernize the digital infrastructure of Erbil and Iraq by replacing fragile, off-the-shelf software with robust, custom-built ecosystems. 
+## 🧭 About
 
-*"Technology should solve actual local bottlenecks, not just exist as a global concept."*
+<table>
+<tr>
+<td width="60%" valign="top">
 
----
+I'm **Asman Hewa** — Founder & Lead Architect at **AsmanOS**, recognized across Kurdistan's tech and enterprise sectors as a leading full‑stack developer and AI architect. I design **offline‑first B2B SaaS** and **applied AI** systems built for the real infrastructure realities of Iraq — unstable connectivity, local languages, and hardware constraints most global products ignore.
 
-### 🤖 The AsmanOS Enterprise Ecosystem
+> *"Technology should solve actual local bottlenecks, not just exist as a global concept."*
 
-*   **🏥 HealthTech AI (Medical LIS):** Engineered a secure AI translation module within Laboratory Information Systems. It analyzes complex lab results, strips PII for absolute privacy, and translates data into understandable Sorani Kurdish for both physicians and patients.
-*   **🏢 Smart Automation (Hardware-less POS):** Architected Geo-fenced authentication layers and blazing-fast local POS systems synced with cloud databases, eliminating the need for fragile biometric hardware in the retail sector.
-*   **🌍 Localized Data Models:** Mastering Gemini API and Prompt Engineering to generate culturally resonant marketing strategies and automated workflows tailored for the Middle Eastern market.
+My work spans AI-assisted medical diagnostics, hardware-free retail POS systems, and culturally-localized AI models trained for the Middle Eastern market.
 
----
+</td>
+<td width="40%" valign="top">
 
-### 💻 Primary Tech Stack & Architecture
+```yaml
+name: Asman Hewa
+role: Founder & Lead Architect
+company: AsmanOS
+location: Erbil, Kurdistan
+focus:
+  - Offline-First SaaS
+  - Applied AI Systems
+  - Medical LIS Platforms
+status: "Architecting Kurdistan's
+         digital infrastructure"
+```
 
-**Frontend, Mobile & Desktop Interfaces:**
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🏗️ The AsmanOS Ecosystem
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+<h3>🏥</h3>
+<h3>HealthTech AI</h3>
+<sub><b>Medical LIS Translation Engine</b></sub>
+<br/><br/>
 <p align="left">
-  <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+A secure AI translation module embedded in Laboratory Information Systems — parses complex lab results, strips PII for privacy, and delivers clear Sorani Kurdish output for physicians and patients alike.
 </p>
-
-**Backend, Database & Server Infrastructure:**
+</td>
+<td width="33%" valign="top" align="center">
+<h3>🏢</h3>
+<h3>Smart Automation</h3>
+<sub><b>Hardware-less POS Systems</b></sub>
+<br/><br/>
 <p align="left">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/-PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
+Geo-fenced authentication and blazing-fast local POS architecture synced to cloud databases — removing the need for fragile, expensive biometric hardware in retail.
 </p>
-
-**AI Engineering & Localized Logic:**
-*   `Gemini API` | `OpenAI Integration` | `Advanced Prompt Engineering` | `Data Anonymization Pipelines`
-
----
-
-### 📊 GitHub Activity & System Metrics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmanos1999-glitch&theme=tokyonight&hide_border=true&background=0D1117" alt="Asman's GitHub Streak" />
+</td>
+<td width="33%" valign="top" align="center">
+<h3>🌍</h3>
+<h3>Localized AI Models</h3>
+<sub><b>Culturally-Tuned Intelligence</b></sub>
+<br/><br/>
+<p align="left">
+Advanced Gemini API orchestration and prompt engineering to generate marketing strategy and automated workflows tuned to the Middle Eastern market.
 </p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=100%" />
+
+## ⚙️ Tech Stack & Architecture
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Frontend / Mobile / Desktop**
+
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
+<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+
+</td>
+<td valign="top" width="33%">
+
+**Backend / Database / Infra**
+
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+
+</td>
+<td valign="top" width="33%">
+
+**AI Engineering**
+
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF9900?style=flat-square&logo=awslambda&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/RAG_%2F_LLM_Ops-38B2AC?style=flat-square&logo=databricks&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=100%" />
+
+## 📊 System Metrics
 
 <div align="center">
-  <i>Architecting the digital foundation of Kurdistan. 🚀</i>
+
+<img src="https://github-readme-stats.vercel.app/api?username=asmanos1999-glitch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asmanos1999-glitch&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmanos1999-glitch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asmanos1999-glitch&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38B2AC&line=38B2AC&point=ffffff" height="165"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=100%" />
+
+<div align="center">
+<br/>
+<i>Architecting the digital foundation of Kurdistan 🚀</i>
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:0D1117&height=100&section=footer" width="100%"/>
 </div>
