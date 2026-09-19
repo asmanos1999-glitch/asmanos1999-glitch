@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:38B2AC&height=220&section=header&text=ASMAN%20HEWA&fontSize=70&fontColor=FFFFFF&fontAlignY=35&desc=Founder%20%26%20Lead%20Architect%20%40%20AsmanOS&descAlignY=55&descSize=22&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:38B2AC&height=220&section=header&text=ASMAN+HEWA&fontSize=70&fontColor=FFFFFF&fontAlignY=35&desc=Founder+and+Lead+Architect+at+AsmanOS&descAlignY=55&descSize=22&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=750&lines=The+%231+Full-Stack+Developer+%26+Top+AI+Architect;Founder+%26+Lead+Architect+%40+AsmanOS;Architecting+Offline-First+B2B+SaaS+for+Iraq;Applied+AI+%7C+Medical+LIS+%7C+Smart+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=750&lines=The+Top+Full-Stack+Developer+and+AI+Architect;Founder+and+Lead+Architect+at+AsmanOS;Architecting+Offline-First+B2B+SaaS+for+Iraq;Applied+AI,+Medical+LIS,+Smart+Automation" alt="Typing SVG" />
 </a>
 </p>
 
