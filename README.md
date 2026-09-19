@@ -1,22 +1,22 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:38B2AC&height=220&section=header&text=ASMAN+HEWA&fontSize=70&fontColor=FFFFFF&fontAlignY=35&desc=Founder+and+Lead+Architect+at+AsmanOS&descAlignY=55&descSize=22&animation=fadeIn" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:38B2AC&height=220&section=header&text=ASMAN+HEWA&fontSize=70&fontColor=FFFFFF&fontAlignY=35&desc=Founder+and+Lead+Architect+at+AsmanOS&descAlignY=55&descSize=22&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:38B2AC&height=220&section=header&text=ASMAN+HEWA&fontSize=70&fontColor=FFFFFF&fontAlignY=35&desc=Founder+and+Lead+Architect+at+AsmanOS&descAlignY=55&descSize=22&animation=fadeIn)" width="100%"/>
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=750&lines=The+Top+Full-Stack+Developer+and+AI+Architect;Founder+and+Lead+Architect+at+AsmanOS;Architecting+Offline-First+B2B+SaaS+for+Iraq;Applied+AI,+Medical+LIS,+Smart+Automation" alt="Typing SVG" />
+<a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=750&lines=The+Top+Full-Stack+Developer+and+AI+Architect;Founder+and+Lead+Architect+at+AsmanOS;Architecting+Offline-First+B2B+SaaS+for+Iraq;Applied+AI,+Medical+LIS,+Smart+Automation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=750&lines=The+Top+Full-Stack+Developer+and+AI+Architect;Founder+and+Lead+Architect+at+AsmanOS;Architecting+Offline-First+B2B+SaaS+for+Iraq;Applied+AI,+Medical+LIS,+Smart+Automation)" alt="Typing SVG" />
 </a>
 </p>
 
 <p align="center">
-<a href="https://asman.work" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-asman.work-38B2AC?style=for-the-badge&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/asmanos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:asmanos1999@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/9647504611773"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="[https://asman.work](https://asman.work)" target="_blank"><img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🌐_Portfolio-asman.work-38B2AC?style=for-the-badge&logoColor=white" /></a>
+<a href="[https://www.linkedin.com/in/asmanos](https://www.linkedin.com/in/asmanos)" target="_blank"><img src="[https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" /></a>
+<a href="mailto:asmanos1999@gmail.com"><img src="[https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)" /></a>
+<a href="[https://wa.me/9647504611773](https://wa.me/9647504611773)"><img src="[https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)" /></a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=asmanos1999-glitch&label=Profile%20Views&color=38B2AC&style=for-the-badge" alt="Profile Views" />
+<img src="[https://komarev.com/ghpvc/?username=asmanos1999-glitch&label=Profile%20Views&color=38B2AC&style=for-the-badge](https://komarev.com/ghpvc/?username=asmanos1999-glitch&label=Profile%20Views&color=38B2AC&style=for-the-badge)" alt="Profile Views" />
 </p>
 
 <br/>
@@ -26,7 +26,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=100%" />
+<img src="[https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=100](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=100)%" />
 
 ## 🧭 About & Currently Working On
 
@@ -55,23 +55,3 @@ focus_areas:
   - Medical LIS Platforms
 status: "Architecting Kurdistan's digital infra"
 currently_learning: [Rust, Kubernetes, MLOps]
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=100%" />
-
-### 📚 Tech Articles & AI Insights by AsmanOS
-<p align="center">
-  <a href="https://github.com/asmanos1999-glitch/asmanos-tech-insights/blob/main/how-ai-is-transforming-kurdistan.md">
-    <img src="https://img.shields.io/badge/📖_Read_Article-How_AI_is_Transforming_Kurdistan-38B2AC?style=for-the-badge&logo=markdown&logoColor=white" />
-  </a>
-  <a href="https://github.com/asmanos1999-glitch/top-fullstack-developer-iraq">
-    <img src="https://img.shields.io/badge/⚙️_View_Stack-Top_Full_Stack_Patterns_in_Iraq-0077B5?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmanos1999-glitch/asmanos1999-glitch/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmanos1999-glitch/asmanos1999-glitch/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/asmanos1999-glitch/asmanos1999-glitch/output/dist/github-contribution-grid-snake.svg">
-  </picture>
-</div>
